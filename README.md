@@ -5,12 +5,10 @@ A modern, high-performance car rental application designed to streamline the veh
 
  Key Features
 
-- **Smart Search**: Filter by brand, price range, fuel type, or proximity.
-- **Real-time Availability**: Interactive calendar system to prevent double-bookings.
-- **User Dashboard**: Manage active rentals, booking history, and driver documents.
-- **Secure Payments**: Integrated with [Stripe/PayPal] for encrypted transactions.
-- **Admin Panel**: Fleet management, earnings tracking, and maintenance alerts.
-- **Push Notifications**: Automated reminders for pickup and return times.
+- Interactive pages
+- Display informations about car and their statuts
+- saves time 
+- customers are able to rent cars online
 
  Technical Stack
 
